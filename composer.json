@@ -1,0 +1,5 @@
+{
+    "require": {
+        "viniciusgava/google-translate-api": "^3.1"
+    }
+}

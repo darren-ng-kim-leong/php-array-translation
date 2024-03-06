@@ -1,0 +1,4 @@
+<?php
+return [
+    'googleapi_key' => '{api_key_here}',
+];
